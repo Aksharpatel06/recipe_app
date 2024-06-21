@@ -16,7 +16,14 @@ Padding instructinos(MainModal mainModal,int productIndex) {
           ),
         ),
         SizedBox(
-          height: 15,
+          height: 7,
+        ),
+        Divider(
+          // thickness: ,
+        ),
+
+        SizedBox(
+          height: 7,
         ),
         ...List.generate(
           mainModal.recipes[productIndex].instructions.length,

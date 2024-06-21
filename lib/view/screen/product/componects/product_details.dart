@@ -7,6 +7,10 @@ Padding productDetails(MainModal mainModal,int productIndex) {
     padding: const EdgeInsets.all(16.0),
     child: Column(
       children: [
+        Divider(),
+        SizedBox(
+          height: 16,
+        ),
         Row(
           children: [
             const Text(
