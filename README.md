@@ -133,7 +133,7 @@ void main() => runApp(RecipesApp());
 
 By following these steps, you can effectively manage and use JSON assets in your Flutter application, providing a structured and scalable way to handle data like recipes in your app.
 
-### ScreenShorts
+### ScreenShorts  [Source Code](https://github.com/Aksharpatel06/recipe_app/tree/master/lib)
 
 <p align='center'>
   <img src='https://github.com/Aksharpatel06/recipe_app/assets/143181114/71bfffab-fadb-461a-b42c-fecaff2850ea' width='240'>
